@@ -1,0 +1,12 @@
+# Site settings
+title: Saiichi's Blog
+email: cuiyi_dlut@outlook.com
+description: > # this means to ignore newlines until "baseurl:"
+  Some notes
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://saiichi.github.io" # the base hostname & protocol for your site
+twitter_username: saiichi
+github_username:  saiichi
+
+# Build settings
+markdown: kramdown
